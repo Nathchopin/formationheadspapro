@@ -32,7 +32,7 @@ const translations = {
     "why.feature1.title": "Aucun prérequi",
     "why.feature1.subtitle": "Accessible à TOUS",
     "why.feature1.description":
-      "Que vosu soyez débutant(e), professionnel(le) de la beauté, du bien être, de la coiffure ou en reconversion professionnelle",
+      "Que vous soyez débutant(e), professionnel(le) de la beauté, du bien être, de la coiffure ou en reconversion professionnelle",
     "why.feature2.title": "Expertise Japonaise",
     "why.feature2.subtitle": "Shiatsu & Massage",
     "why.feature2.description":
