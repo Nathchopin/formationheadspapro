@@ -14,6 +14,7 @@ const Index = () => {
     <main className="relative min-h-screen overflow-x-hidden bg-background">
       <Navigation />
       <HeroSection />
+      <img src="Design sans titre.png"alt="Formation Head Spa" className="w-full max-w-4xl mx-auto rounded-2xl my-10" />
       <InstructorSection />
       <ReviewsSection />
       <WhySection />
